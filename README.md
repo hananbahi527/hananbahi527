@@ -6,7 +6,7 @@
 <h2 align="center">⚡ Communication & Information Engineering Student</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Future+Software+Engineer;Full-Stack+Development+Enthusiast;Mobile+Application+Developer;Embedded+Systems+Explorer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Future+AI+Engineer;Full-Stack+Development+Enthusiast;Mobile+Application+Developer;Embedded+Systems+Explorer;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,cs,html,css,js,dart,flutter,mysql,git,github,vscode,matlab" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,matlab" />
 
 </p>
 
