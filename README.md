@@ -6,7 +6,7 @@
 <h2 align="center">⚡ Communication & Information Engineering Student</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+and+Dta+Enthusiast;Full-Stack+Development+Enthusiast;UI/UX+Driven;Mobile+Application+Developer;Embedded+Systems+Explorer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+and+Dta+Enthusiast;Full-Stack+Development+Passionate;Embedded+Systems+Explorer;UI/UX+Driven;Mobile+Application+Developer" />
 </p>
 
 ---
