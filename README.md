@@ -1,64 +1,55 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Hanan%20Ayman%20Bahi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
-
-<h2 align="center">⚡ Communication & Information Engineering Student</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+and+Data+Enthusiast;Full-Stack+Development+Passionate;Embedded+Systems+Explorer;UI/UX+Driven;Mobile+Application+Developer" />
-</p>
-
----
-
-# About Me
-- Exploring Artificial Intelligence and Machine Learning applications.
-- Fascinated by computer architecture, circuit design.
-- Fascinated by embedded systems, low-level programming, and how hardware interacts with software.
-- Passionate about developing mobile applications for both iOS and Android platforms.
-- Currently exploring Artificial Intelligence and Machine Learning to develop smarter.
-- Interested in full-stack development, with experience and curiosity across both frontend and backend technologies.
-  
-
-
----
-
-#  Languages & Tools
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,matlab" />
+<svg width="100%" height="220" viewBox="0 0 1200 220"
+xmlns="http://www.w3.org/2000/svg">
 
-</p>
+<defs>
 
----
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#081426"/>
+<stop offset="50%" stop-color="#1D4ED8"/>
+<stop offset="100%" stop-color="#38BDF8"/>
+</linearGradient>
 
-#  Goals
+<linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#60A5FA"/>
+<stop offset="100%" stop-color="#0EA5E9"/>
+</linearGradient>
 
-- Master modern software engineering practices.
-- Dive deeper into AI/ML models and data analytics.
-- Sharpen my problem-solving and algorithmic thinking.
-- Contribute to meaningful open-source projects.
-- Evolve into a versatile Full-Stack & AI Engineer.
+</defs>
 
----
+<rect width="1200" height="220" fill="url(#bg)"/>
 
-# 🌐 Connect With Me
+<!-- Wave -->
+<path fill="url(#wave)">
+<animate attributeName="d"
+dur="8s"
+repeatCount="indefinite"
+values="
+M0,170 C250,110 450,220 700,170 C950,120 1100,180 1200,150 L1200,220 L0,220 Z;
+M0,160 C300,220 500,110 750,170 C1000,220 1100,120 1200,170 L1200,220 L0,220 Z;
+M0,170 C250,110 450,220 700,170 C950,120 1100,180 1200,150 L1200,220 L0,220 Z"/>
+</path>
 
-<p align="center">
+<circle cx="200" cy="70" r="35" fill="#4DA6FF">
+<animate attributeName="cy" values="70;55;70" dur="4s" repeatCount="indefinite"/>
+</circle>
 
-<a href="mailto:s-hanan.elboghdadi@zewailcity.edu.eg">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<circle cx="850" cy="90" r="30" fill="#4DA6FF">
+<animate attributeName="cy" values="90;70;90" dur="5s" repeatCount="indefinite"/>
+</circle>
 
-<a href="https://www.linkedin.com/in/hanan-bahi-511940386/">
-  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<text
+x="50%"
+y="48%"
+text-anchor="middle"
+fill="white"
+font-size="40"
+font-family="Segoe UI"
+font-weight="bold">
+Hanan Ayman Bahi
+</text>
 
-</p>
+</svg>
 
----
-
-<p align="center">
-✨ Building skills today for the technology of tomorrow ✨
 </p>
