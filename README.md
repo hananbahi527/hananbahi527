@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=200&section=header&text=Hi,%20I'm%20Hanan%20Bahi%20✨&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-### 📡 Communication & Information Engineer | 🧠 AI & Data Science Enthusiast
+###  Communication & Information Engineer |  AI & Data Science Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hananbahi527)
@@ -13,7 +13,7 @@
 
 </div>
 
-## 🧠 نبذة عني | About Me
+##  About Me
 
 * 🎓 **Communication and Information Engineering** student/graduate with a strong passion for data and intelligent systems.
 * 📊 Deeply interested in **Data Science, Machine Learning (ML), and Artificial Intelligence (AI)** applications.
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ اللغات والأدوات | Languages & Tools
+##  Languages & Tools
 
 <div align="left">
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 🌟 مشاريع مميزة | Featured Projects
+## 🌟 Featured Projects
 
 ### 🚀 Project Name — Short Subtitle
 > *Brief one-line description of your project.*
