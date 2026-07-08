@@ -6,19 +6,19 @@
 <h2 align="center">⚡ Communication & Information Engineering Student</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Future+AI+Engineer;Full-Stack+Development+Enthusiast;Mobile+Application+Developer;Embedded+Systems+Explorer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+&+Dta+Enthusiast;Full-Stack+Development+Enthusiast;UI/UX+Driven;Mobile+Application+Developer;Embedded+Systems+Explorer" />
 </p>
 
 ---
 
-# 👩‍💻 About Me
-
-- 🎓 Communication and Information Engineering Student
-- 💻 Passionate about **full-stack development (frontend & backend)**
-- 📱 Interested in **mobile application development (iOS & Android)**
-- 🎨 Enthusiastic about **UI/UX design and user-centered interfaces**
-- ⚙️ Interested in **embedded systems and low-level programming**
-- 🤖 Exploring **Artificial Intelligence and Machine Learning applications**
+# About Me
+- Exploring Artificial Intelligence and Machine Learning applications.
+- Fascinated by computer architecture, circuit design.
+- Fascinated by embedded systems, low-level programming, and how hardware interacts with software.
+- Passionate about developing mobile applications for both iOS and Android platforms.
+- Currently exploring Artificial Intelligence and Machine Learning to develop smarter.
+- Interested in full-stack development, with experience and curiosity across both frontend and backend technologies.
+  
 
 
 ---
@@ -35,11 +35,11 @@
 
 # 🎯 Goals
 
--  Become a full-stack developer
--  Build real-world impactful projects
--  Improve problem-solving and algorithm skills
--  Learn modern software engineering practices
--  Contribute to open-source projects
+- Master modern software engineering practices.
+- Dive deeper into AI/ML models and data analytics.
+- Sharpen my problem-solving and algorithmic thinking.
+- Contribute to meaningful open-source projects.
+- Evolve into a versatile Full-Stack & AI Engineer.
 
 ---
 
