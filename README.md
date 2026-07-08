@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Hanan%20Ayman%20Bahi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h2 align="center">⚡ Communication & Information Engineering Student</h2>
+<h2 align="center"> Communication & Information Engineering Student</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+and+Data+Enthusiast;Full-Stack+Development+Passionate;Embedded+Systems+Explorer;UI/UX+Driven;Mobile+Application+Developer" />
@@ -60,5 +60,4 @@
 ---
 
 <p align="center">
-✨ Building skills today for the technology of tomorrow ✨
 </p>
