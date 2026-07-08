@@ -1,6 +1,6 @@
 <!-- ================= ANIMATED WAVE HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,70:2563EB,100:06B6D4&height=260&section=header&text=Hanan%20Ayman%20Bahi&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Communication%20%26%20Information%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,35:1E3A8A,70:2563EB,100:06B6D4&height=260&section=header&text=Hanan%20Ayman%20Bahi&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Communication%20%26%20Information%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <!-- ================= TYPING ANIMATION ================= -->
@@ -129,7 +129,7 @@ student:
 
 <!-- ================= ANIMATED FOOTER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:06B6D4,50:2563EB,100:0F172A&height=150&section=footer"/>
 </p>
 
 <p align="center">
