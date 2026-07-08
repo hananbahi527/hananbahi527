@@ -1,53 +1,82 @@
-<div align="center">
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Hanan%20Ayman%20Bahi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=200&section=header&text=Hi,%20I'm%20Hanan%20Bahi%20✨&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<h2 align="center">⚡ Communication & Information Engineering Student</h2>
 
-###  Communication & Information Engineer |  AI & Data Science Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hananbahi527)
-
-*"Transforming signals into data, and data into intelligent decisions."*
-
----
-
-</div>
-
-##  About Me
-
-* 🎓 **Communication and Information Engineering** student/graduate with a strong passion for data and intelligent systems.
-* 📊 Deeply interested in **Data Science, Machine Learning (ML), and Artificial Intelligence (AI)** applications.
-* 💡 Love exploring how neural networks process complex communication data and finding patterns that solve real-world problems.
-* 🚀 Continuously building projects to bridge the gap between engineering concepts and advanced software solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Future+Software+Engineer;Full-Stack+Development+Enthusiast;Mobile+Application+Developer;Embedded+Systems+Explorer;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-##  Languages & Tools
+# 👩‍💻 About Me
 
-<div align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
-</div>
+- 🎓 Communication and Information Engineering Student
+- 💻 Passionate about **full-stack development (frontend & backend)**
+- 📱 Interested in **mobile application development (iOS & Android)**
+- 🎨 Enthusiastic about **UI/UX design and user-centered interfaces**
+- 🗄️ Experienced with **database systems and backend architecture**
+- ⚙️ Interested in **embedded systems and low-level programming**
+- 🤖 Exploring **Artificial Intelligence and Machine Learning applications**
+- 🚀 Continuously improving my skills through academic and personal projects
 
 ---
 
-## 🌟 Featured Projects
+# 🛠 Languages & Tools
 
-### 🚀 Project Name — Short Subtitle
-> *Brief one-line description of your project.*
+<p align="center">
 
-Detailed description: This project analyzes data to predict/classify specific outcomes, using advanced data processing techniques.
+<img src="https://skillicons.dev/icons?i=cpp,java,cs,html,css,js,dart,flutter,mysql,git,github,vscode,matlab" />
 
-**Stack:** Python • Machine Learning • Data Analysis
+</p>
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=100&section=footer" width="100%"/>
-</div>
+# 🎯 Goals
+
+- 🌟 Become a full-stack developer
+- 🚀 Build real-world impactful projects
+- 🧩 Improve problem-solving and algorithms skills
+- 📚 Learn modern software engineering practices
+- 🤝 Contribute to open-source projects
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+✨ Building skills today for the technology of tomorrow ✨
+</p>
