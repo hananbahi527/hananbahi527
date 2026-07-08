@@ -38,24 +38,21 @@
 
 - 🌟 Become a full-stack developer
 - 🚀 Build real-world impactful projects
-- 🧩 Improve problem-solving and algorithms skills
+- 🧩 Improve problem-solving and algorithm skills
 - 📚 Learn modern software engineering practices
 - 🤝 Contribute to open-source projects
 
 ---
 
-
-
-
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:s-hanan.elboghdadi@zewailcity.edu.eg">
   <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/hanan-bahi-511940386/">
   <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
