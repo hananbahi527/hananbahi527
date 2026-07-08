@@ -12,7 +12,7 @@
 ---
 
 # About Me
-- Exploring Artificial Intelligence and Machine Learning applications.
+
 - Fascinated by computer architecture, circuit design.
 - Fascinated by embedded systems, low-level programming, and how hardware interacts with software.
 - Passionate about developing mobile applications for both iOS and Android platforms.
