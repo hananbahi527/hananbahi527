@@ -11,17 +11,6 @@
 
 ---
 
-# About Me
-
-- Fascinated by computer architecture, circuit design.
-- Fascinated by embedded systems, low-level programming, and how hardware interacts with software.
-- Passionate about developing mobile applications for both iOS and Android platforms.
-- Currently exploring Artificial Intelligence and Machine Learning to develop smarter.
-- Interested in full-stack development, with experience and curiosity across both frontend and backend technologies.
-  
-
-
----
 
 #  Languages & Tools
 
