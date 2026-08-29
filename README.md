@@ -115,18 +115,40 @@
 
 <br>
 
+<!-- Cloud -->
+
+<h3 align="center">☁️ Cloud Computing</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://img.icons8.com/fluency/96/cloud.png" width="48" height="48" alt="Cloud Computing"/>
+</p>
+
+<br>
+
 <!-- AI -->
 
 <h3 align="center">🤖 AI & Data</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Fundamentals-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-06B6D4?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+<br>
+
+<!-- Networking & Cybersecurity -->
+
+<h3 align="center">🌐 Networking & Cybersecurity</h3>
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/network.png" width="48" height="48" alt="Networking"/>
+  <img src="https://img.icons8.com/fluency/96/cyber-security.png" width="48" height="48" alt="Cybersecurity"/>
 </p>
 
 <br>
@@ -138,7 +160,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=matlab,git,github,vscode,linux" />
 </p>
-
 
 <!-- ====================================================== -->
 <!--                  CURRENTLY LEARNING                    -->
@@ -202,26 +223,6 @@ Exploring ML
 
 ---
 
-<!-- ====================================================== -->
-<!--                   ENGINEERING INTERESTS                -->
-<!-- ====================================================== -->
-
-<h2 align="center">🚀 Areas I'm Exploring</h2>
-
-<p align="center">
-
-🔹 Artificial Intelligence  
-🔹 Software Development  
-🔹 Cloud Computing  
-🔹 Computer Networking  
-🔹 Cybersecurity  
-🔹 Embedded Systems  
-🔹 Computer Architecture  
-🔹 Mobile Development
-
-</p>
-
-<br>
 
 ---
 
@@ -249,6 +250,10 @@ Exploring ML
 <!--                    GITHUB STATS                        -->
 <!-- ====================================================== -->
 
+<!-- ====================================================== -->
+<!--                    GITHUB ACTIVITY                    -->
+<!-- ====================================================== -->
+
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
@@ -256,14 +261,16 @@ Exploring ML
 <a href="https://github.com/hananbahi527">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=hananbahi527&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=7C3AED&icon_color=06B6D4&text_color=334155&bg_color=F8FAFC"
+    src="https://github-readme-stats.vercel.app/api?username=hananbahi527&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=06B6D4&text_color=334155&bg_color=F8FAFC"
+    alt="Hanan's GitHub Stats"
   />
 </a>
 
 <a href="https://github.com/hananbahi527">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananbahi527&layout=compact&langs_count=8&hide_border=true&title_color=2563EB&text_color=334155&bg_color=F8FAFC"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananbahi527&layout=compact&hide_border=true&title_color=2563EB&text_color=334155&bg_color=F8FAFC"
+    alt="Hanan's Top Languages"
   />
 </a>
 
@@ -273,10 +280,13 @@ Exploring ML
 
 <p align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=hananbahi527&hide_border=true&background=F8FAFC&ring=7C3AED&fire=EC4899&currStreakLabel=2563EB&sideLabels=06B6D4&dates=64748B&currStreakNum=7C3AED&sideNums=2563EB"
-  height="180"
-/>
+<a href="https://github.com/hananbahi527">
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com/?user=hananbahi527&hide_border=true&background=F8FAFC&ring=7C3AED&fire=EC4899&currStreakLabel=2563EB&sideLabels=06B6D4&dates=64748B&currStreakNum=7C3AED&sideNums=2563EB"
+    alt="Hanan's GitHub Streak"
+  />
+</a>
 
 </p>
 
