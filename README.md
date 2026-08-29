@@ -1,69 +1,82 @@
+<artifact identifier="github-profile-readme" type="application/vnd.ant.code" language="markdown" title="README.md - GitHub Profile">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00E5B0&height=230&section=header&text=Hanan%20Ayman%20Bahi&fontSize=56&fontColor=ffffff&fontAlignY=32&desc=Communication%20%26%20Computer%20Engineering%20Student&descSize=19&descAlignY=52" width="100%"/>
+
+<h2 align="center">👋 Hi, I'm Hanan!</h2>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:11998e&height=220&section=header&text=Hanan%20Ayman%20Bahi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=COMMUNICATION%20%26%20COMPUTER%20ENGINEERING%20STUDENT&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+Software Development
+Cloud Computing
+Networking
+Cybersecurity
+
+Exploring AI
+Embedded Systems
 
 <br/>
 
-### 👋 Hi, I'm Hanan!
-
-<p>
-  <img src="https://img.shields.io/badge/💻_Software_Development-f5f5ff?style=for-the-badge&labelColor=f5f5ff&color=6a11cb"/>
-  <img src="https://img.shields.io/badge/☁️_Cloud_Computing-f5f5ff?style=for-the-badge&labelColor=f5f5ff&color=2575fc"/>
-  <img src="https://img.shields.io/badge/🌐_Networking-f5f5ff?style=for-the-badge&labelColor=f5f5ff&color=11998e"/>
-  <img src="https://img.shields.io/badge/🔒_Cybersecurity-f5f5ff?style=for-the-badge&labelColor=f5f5ff&color=d6336c"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/🤖_Exploring_AI-f5f5ff?style=for-the-badge&labelColor=f5f5ff&color=6a11cb"/>
-  <img src="https://img.shields.io/badge/🔧_Embedded_Systems-f5f5ff?style=for-the-badge&labelColor=f5f5ff&color=11998e"/>
-</p>
-
-**\>\_ Learning • Building • Exploring • Growing**
-
----
-
-## 👤 About Me
-
-I'm a **Communication & Computer Engineering** student passionate about understanding
-how technology works and building solutions that make a difference.
-
-I'm currently building my foundations in **software development**, **cloud computing**,
-**networking**, **cybersecurity**, **embedded systems**, and **artificial intelligence**.
-
----
-
-## 🚀 My Tech Stack
-
-<img src="https://skillicons.dev/icons?i=py,java,cpp,js,html,css,git,github,vscode&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=cloud,security&theme=dark" />
-<img src="https://img.shields.io/badge/MATLAB-purple?style=for-the-badge&logo=mathworks&logoColor=white"/>
-
----
-
-## 📊 GitHub Activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hananbahi527&show_icons=true&theme=radical&hide_border=true&title_color=6a11cb&icon_color=2575fc" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananbahi527&layout=compact&theme=radical&hide_border=true&title_color=6a11cb" />
-</p>
-
-<img src="https://streak-stats.demolab.com/?user=hananbahi527&theme=radical&hide_border=true&background=00000000&ring=6a11cb&fire=2575fc" />
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="mailto:s-hanan.elboghdadi@zewailcity.edu.eg">
-    <img src="https://img.shields.io/badge/Email-s--hanan.elboghdadi%40zewailcity.edu.eg-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/hanan-bahi-511940386">
-    <img src="https://img.shields.io/badge/LinkedIn-hanan--bahi--511940386-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/hananbahi527">
-    <img src="https://img.shields.io/badge/GitHub-hananbahi527-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7B2FF7&center=true&vCenter=true&width=640&height=50&lines=Learning+%C2%B7+Building+%C2%B7+Exploring+%C2%B7+Growing" alt="Learning · Building · Exploring · Growing"/>
 
 </div>
+
+<h2 align="center">👤 About Me</h2>
+
+<div align="center">
+
+I'm a Communication & Computer Engineering student passionate about understanding
+how technology works and building solutions that make a difference.
+
+I'm currently building my foundations in software development, cloud computing,
+networking, cybersecurity, embedded systems, and artificial intelligence.
+
+</div>
+
+<h2 align="center">🚀 My Tech Stack</h2>
+
+<div align="center">
+
+Python
+Java
+C++
+JavaScript
+
+HTML5
+CSS3
+Git
+GitHub
+
+VS Code
+Cloud
+Networking
+Security
+
+MATLAB
+Embedded Systems
+
+</div>
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hananbahi527&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6C5CE7&icon_color=6C5CE7&text_color=333333&include_all_commits=true&count_private=true" alt="Hanan's GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananbahi527&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6C5CE7&text_color=333333&langs_count=6" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=hananbahi527&hide_border=true&background=FFFFFF&stroke=6C5CE7&ring=6C5CE7&fire=FF8A00&currStreakLabel=6C5CE7&sideLabels=6C5CE7&currStreakNum=333333&sideNums=333333&dates=AAAAAA" alt="Contribution Streak"/>
+
+</div>
+
+<h2 align="center">📮 Connect With Me</h2>
+
+<div align="center">
+
+Email
+LinkedIn
+GitHub
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5B0,50:2575FC,100:6A11CB&height=130&section=footer" width="100%"/>
+</artifact
