@@ -97,38 +97,35 @@
 
 <!-- Programming -->
 
-<h3 align="center">💻 Programming</h3>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
 </p>
 
-<br>
+
 
 <!-- Web -->
 
-<h3 align="center">🌐 Web Development</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
 </p>
 
-<br>
 
 <!-- Cloud -->
 
-<h3 align="center">☁️ Cloud Computing</h3>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://img.icons8.com/fluency/96/cloud.png" width="48" height="48" alt="Cloud Computing"/>
 </p>
 
-<br>
+
 
 <!-- AI -->
 
-<h3 align="center">🤖 AI & Data</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
@@ -140,22 +137,21 @@
   <img src="https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-<br>
+
 
 <!-- Networking & Cybersecurity -->
 
-<h3 align="center">🌐 Networking & Cybersecurity</h3>
 
 <p align="center">
   <img src="https://img.icons8.com/fluency/96/network.png" width="48" height="48" alt="Networking"/>
   <img src="https://img.icons8.com/fluency/96/cyber-security.png" width="48" height="48" alt="Cybersecurity"/>
 </p>
 
-<br>
+
 
 <!-- Engineering -->
 
-<h3 align="center">🔧 Engineering & Tools</h3>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=matlab,git,github,vscode,linux" />
