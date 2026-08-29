@@ -87,97 +87,58 @@
 <!-- ====================================================== -->
 <!--                    MY TECH STACK                       -->
 <!-- ====================================================== -->
-
 <h2 align="center">🛠️ My Tech Stack</h2>
 
 <p align="center">
-  <i>Technologies I'm currently learning and working with</i>
+  <i>Technologies I'm learning, building with, and exploring</i>
 </p>
 
 <br>
 
 <!-- Programming -->
 
-<h3 align="center">💻 Programming & Development</h3>
+<h3 align="center">💻 Programming</h3>
 
 <p align="center">
-
-<img src="https://techstack-generator.vercel.app/python-icon.svg"
-     width="75" height="75" alt="Python"/>
-
-<img src="https://techstack-generator.vercel.app/java-icon.svg"
-     width="75" height="75" alt="Java"/>
-
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg"
-     width="75" height="75" alt="C++"/>
-
-<img src="https://techstack-generator.vercel.app/js-icon.svg"
-     width="75" height="75" alt="JavaScript"/>
-
-<img src="https://techstack-generator.vercel.app/html-icon.svg"
-     width="75" height="75" alt="HTML"/>
-
-<img src="https://techstack-generator.vercel.app/css-icon.svg"
-     width="75" height="75" alt="CSS"/>
-
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
 </p>
 
 <br>
 
-<!-- Tools -->
+<!-- Web -->
 
-<h3 align="center">🔧 Development Tools</h3>
+<h3 align="center">🌐 Web Development</h3>
 
 <p align="center">
-
-<img src="https://techstack-generator.vercel.app/git-icon.svg"
-     width="75" height="75" alt="Git"/>
-
-<img src="https://techstack-generator.vercel.app/github-icon.svg"
-     width="75" height="75" alt="GitHub"/>
-
-<img src="https://techstack-generator.vercel.app/vscode-icon.svg"
-     width="75" height="75" alt="VS Code"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
 </p>
 
 <br>
 
-<!-- Cloud -->
+<!-- AI -->
 
-<h3 align="center">☁️ Cloud & Infrastructure</h3>
+<h3 align="center">🤖 AI & Data</h3>
 
 <p align="center">
-
-<img src="https://techstack-generator.vercel.app/aws-icon.svg"
-     width="75" height="75" alt="AWS"/>
-
-<img src="https://techstack-generator.vercel.app/docker-icon.svg"
-     width="75" height="75" alt="Docker"/>
-
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud_Computing-7C3AED?style=for-the-badge&logo=icloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-2563EB?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-EC4899?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 <br>
 
 <!-- Engineering -->
 
-<h3 align="center">🔌 Engineering</h3>
+<h3 align="center">🔧 Engineering & Tools</h3>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/MATLAB-10B981?style=for-the-badge&logo=mathworks&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Embedded_Systems-06B6D4?style=for-the-badge&logo=arduino&logoColor=white"/>
-
+  <img src="https://skillicons.dev/icons?i=matlab,git,github,vscode,linux" />
 </p>
 
----
 
 <!-- ====================================================== -->
 <!--                  CURRENTLY LEARNING                    -->
