@@ -100,10 +100,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
-</p>
-
-
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
 
 <!-- Web -->
 
@@ -120,22 +117,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://img.icons8.com/fluency/96/cloud.png" width="48" height="48" alt="Cloud Computing"/>
-</p>
 
 
 
 <!-- AI -->
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Fundamentals-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-06B6D4?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
 
 
 
