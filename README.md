@@ -130,10 +130,6 @@
 <!-- Networking & Cybersecurity -->
 
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/network.png" width="48" height="48" alt="Networking"/>
-  <img src="https://img.icons8.com/fluency/96/cyber-security.png" width="48" height="48" alt="Cybersecurity"/>
-</p>
 
 
 
