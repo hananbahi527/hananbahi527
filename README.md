@@ -1,366 +1,69 @@
-<!-- ====================================================== -->
-<!--                       HEADER                           -->
-<!-- ====================================================== -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,35:2563EB,70:06B6D4,100:10B981&height=250&section=header&text=Hanan%20Ayman%20Bahi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:11998e&height=220&section=header&text=Hanan%20Ayman%20Bahi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=COMMUNICATION%20%26%20COMPUTER%20ENGINEERING%20STUDENT&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<br/>
+
+### 👋 Hi, I'm Hanan!
+
+<p>
+  <img src="https://img.shields.io/badge/💻_Software_Development-f5f5ff?style=for-the-badge&labelColor=f5f5ff&color=6a11cb"/>
+  <img src="https://img.shields.io/badge/☁️_Cloud_Computing-f5f5ff?style=for-the-badge&labelColor=f5f5ff&color=2575fc"/>
+  <img src="https://img.shields.io/badge/🌐_Networking-f5f5ff?style=for-the-badge&labelColor=f5f5ff&color=11998e"/>
+  <img src="https://img.shields.io/badge/🔒_Cybersecurity-f5f5ff?style=for-the-badge&labelColor=f5f5ff&color=d6336c"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/🤖_Exploring_AI-f5f5ff?style=for-the-badge&labelColor=f5f5ff&color=6a11cb"/>
+  <img src="https://img.shields.io/badge/🔧_Embedded_Systems-f5f5ff?style=for-the-badge&labelColor=f5f5ff&color=11998e"/>
 </p>
 
-<h2 align="center">
-  👋 Hi, I'm Hanan!
-</h2>
-
-<p align="center">
-  <b>Communication & Computer Engineering Student</b>
-</p>
-
-<p align="center">
-  💻 Software Development
-  &nbsp; • &nbsp;
-  ☁️ Cloud
-  &nbsp; • &nbsp;
-  🌐 Networking
-  &nbsp; • &nbsp;
-  🔐 Cybersecurity
-</p>
-
-<p align="center">
-  🤖 Exploring AI
-  &nbsp; • &nbsp;
-  🔧 Embedded Systems
-</p>
-
-<br>
-
-<!-- ====================================================== -->
-<!--                    TYPING ANIMATION                    -->
-<!-- ====================================================== -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Communication+%26+Computer+Engineering+Student;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Learning+Cloud+Computing+%E2%98%81%EF%B8%8F;Exploring+Computer+Networks+%F0%9F%8C%90;Discovering+Cybersecurity+%F0%9F%94%90;Building+Software+%F0%9F%92%BB;Exploring+Embedded+Systems+%F0%9F%94%A7"
-  />
-</p>
-
-<br>
+**\>\_ Learning • Building • Exploring • Growing**
 
 ---
 
-<!-- ====================================================== -->
-<!--                       ABOUT ME                         -->
-<!-- ====================================================== -->
+## 👤 About Me
 
-<h2 align="center">✨ About Me</h2>
+I'm a **Communication & Computer Engineering** student passionate about understanding
+how technology works and building solutions that make a difference.
 
-<p align="center">
-  I'm a <b>Communication & Computer Engineering student</b>
-  interested in understanding how modern technology works
-  from both the software and systems perspective.
-</p>
-
-<p align="center">
-  I'm currently building my foundations across
-  <b>software development, cloud computing, networking,
-  cybersecurity, embedded systems, and artificial intelligence.</b>
-</p>
-
-<br>
-
-<p align="center">
-
-🎓 Engineering Student  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-💻 Developer  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-☁️ Cloud Learner  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🌐 Networking Explorer  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🔐 Cybersecurity Explorer
-
-</p>
+I'm currently building my foundations in **software development**, **cloud computing**,
+**networking**, **cybersecurity**, **embedded systems**, and **artificial intelligence**.
 
 ---
 
-<!-- ====================================================== -->
-<!--                    MY TECH STACK                       -->
-<!-- ====================================================== -->
+## 🚀 My Tech Stack
 
-<h2 align="center">🛠️ My Tech Stack</h2>
-
-<p align="center">
-  <i>Technologies I'm currently learning and working with</i>
-</p>
-
-<br>
-
-<!-- Programming -->
-
-<h3 align="center">💻 Programming & Development</h3>
-
-<p align="center">
-
-<img src="https://techstack-generator.vercel.app/python-icon.svg"
-     width="75" height="75" alt="Python"/>
-
-<img src="https://techstack-generator.vercel.app/java-icon.svg"
-     width="75" height="75" alt="Java"/>
-
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg"
-     width="75" height="75" alt="C++"/>
-
-<img src="https://techstack-generator.vercel.app/js-icon.svg"
-     width="75" height="75" alt="JavaScript"/>
-
-<img src="https://techstack-generator.vercel.app/html-icon.svg"
-     width="75" height="75" alt="HTML"/>
-
-<img src="https://techstack-generator.vercel.app/css-icon.svg"
-     width="75" height="75" alt="CSS"/>
-
-</p>
-
-<br>
-
-<!-- Tools -->
-
-<h3 align="center">🔧 Development Tools</h3>
-
-<p align="center">
-
-<img src="https://techstack-generator.vercel.app/git-icon.svg"
-     width="75" height="75" alt="Git"/>
-
-<img src="https://techstack-generator.vercel.app/github-icon.svg"
-     width="75" height="75" alt="GitHub"/>
-
-<img src="https://techstack-generator.vercel.app/vscode-icon.svg"
-     width="75" height="75" alt="VS Code"/>
-
-</p>
-
-<br>
-
-<!-- Cloud -->
-
-<h3 align="center">☁️ Cloud & Infrastructure</h3>
-
-<p align="center">
-
-<img src="https://techstack-generator.vercel.app/aws-icon.svg"
-     width="75" height="75" alt="AWS"/>
-
-<img src="https://techstack-generator.vercel.app/docker-icon.svg"
-     width="75" height="75" alt="Docker"/>
-
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud_Computing-7C3AED?style=for-the-badge&logo=icloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-2563EB?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-EC4899?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-</p>
-
-<br>
-
-<!-- Engineering -->
-
-<h3 align="center">🔌 Engineering</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/MATLAB-10B981?style=for-the-badge&logo=mathworks&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Embedded_Systems-06B6D4?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-</p>
+<img src="https://skillicons.dev/icons?i=py,java,cpp,js,html,css,git,github,vscode&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=cloud,security&theme=dark" />
+<img src="https://img.shields.io/badge/MATLAB-purple?style=for-the-badge&logo=mathworks&logoColor=white"/>
 
 ---
 
-<!-- ====================================================== -->
-<!--                  CURRENTLY LEARNING                    -->
-<!-- ====================================================== -->
+## 📊 GitHub Activity
 
-<h2 align="center">🌱 Currently Learning</h2>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hananbahi527&show_icons=true&theme=radical&hide_border=true&title_color=6a11cb&icon_color=2575fc" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananbahi527&layout=compact&theme=radical&hide_border=true&title_color=6a11cb" />
+</p>
 
-<table align="center">
-<tr>
-
-<td align="center" width="180">
-
-### ☁️
-
-<b>Cloud</b>
-
-Cloud Computing  
-AWS  
-Infrastructure
-
-</td>
-
-<td align="center" width="180">
-
-### 🌐
-
-<b>Networking</b>
-
-Computer Networks  
-Protocols  
-Network Architecture
-
-</td>
-
-<td align="center" width="180">
-
-### 🔐
-
-<b>Cybersecurity</b>
-
-Security Fundamentals  
-Network Security  
-Security Concepts
-
-</td>
-
-<td align="center" width="180">
-
-### 🤖
-
-<b>AI</b>
-
-AI Fundamentals  
-Data  
-Exploring ML
-
-</td>
-
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com/?user=hananbahi527&theme=radical&hide_border=true&background=00000000&ring=6a11cb&fire=2575fc" />
 
 ---
 
-<!-- ====================================================== -->
-<!--                   ENGINEERING INTERESTS                -->
-<!-- ====================================================== -->
+## 📫 Connect With Me
 
-<h2 align="center">🚀 Areas I'm Exploring</h2>
-
-<p align="center">
-
-🔹 Artificial Intelligence  
-🔹 Software Development  
-🔹 Cloud Computing  
-🔹 Computer Networking  
-🔹 Cybersecurity  
-🔹 Embedded Systems  
-🔹 Computer Architecture  
-🔹 Mobile Development
-
+<p>
+  <a href="mailto:s-hanan.elboghdadi@zewailcity.edu.eg">
+    <img src="https://img.shields.io/badge/Email-s--hanan.elboghdadi%40zewailcity.edu.eg-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/hanan-bahi-511940386">
+    <img src="https://img.shields.io/badge/LinkedIn-hanan--bahi--511940386-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hananbahi527">
+    <img src="https://img.shields.io/badge/GitHub-hananbahi527-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
 
----
-
-<!-- ====================================================== -->
-<!--                     OPEN SOURCE                        -->
-<!-- ====================================================== -->
-
-<h2 align="center">🌍 Open Source</h2>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=06B6D4&center=true&vCenter=true&width=650&lines=Learning+to+contribute+to+open+source+%F0%9F%8C%B1;Exploring+Git+%26+GitHub+workflows+%F0%9F%94%A7;Building+and+learning+in+public+%F0%9F%8C%8D"
-  />
-</p>
-
-<p align="center">
-  I'm learning how to collaborate on real-world projects,
-  contribute to open-source repositories, and grow through
-  practical development.
-</p>
-
----
-
-<!-- ====================================================== -->
-<!--                    GITHUB STATS                        -->
-<!-- ====================================================== -->
-
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-
-<a href="https://github.com/hananbahi527">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=hananbahi527&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=7C3AED&icon_color=06B6D4&text_color=334155&bg_color=F8FAFC"
-  />
-</a>
-
-<a href="https://github.com/hananbahi527">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananbahi527&layout=compact&langs_count=8&hide_border=true&title_color=2563EB&text_color=334155&bg_color=F8FAFC"
-  />
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=hananbahi527&hide_border=true&background=F8FAFC&ring=7C3AED&fire=EC4899&currStreakLabel=2563EB&sideLabels=06B6D4&dates=64748B&currStreakNum=7C3AED&sideNums=2563EB"
-  height="180"
-/>
-
-</p>
-
----
-
-<!-- ====================================================== -->
-<!--                     CONNECT                            -->
-<!-- ====================================================== -->
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-
-<a href="mailto:s-hanan.elboghdadi@zewailcity.edu.eg">
-  <img
-    src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/hanan-bahi-511940386/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
-
-<a href="https://github.com/hananbahi527">
-  <img
-    src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"
-  />
-</a>
-
-</p>
-
-<br>
-
-<!-- ====================================================== -->
-<!--                       FOOTER                           -->
-<!-- ====================================================== -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,35:06B6D4,70:2563EB,100:7C3AED&height=140&section=footer"
-  />
-</p>
-
-<p align="center">
-  <b>✨ Learn • Build • Explore • Contribute ✨</b>
-</p>
+</div>
