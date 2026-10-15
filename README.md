@@ -68,19 +68,7 @@
 
 <br>
 
-<p align="center">
 
-🎓 Engineering Student  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-💻 Developer  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-☁️ Cloud Learner  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🌐 Networking Explorer  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🔐 Cybersecurity Explorer
-
-</p>
 
 ---
 
