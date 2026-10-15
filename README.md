@@ -153,7 +153,7 @@
       <sub>Model Training & Evaluation</sub>
     </td>
     <td align="center" width="200">
-      <h3>🧠 Artificial Intelligence</h3>
+      <h3>🧠 AI</h3>
       <sub>AI Fundamentals</sub><br>
       <sub>AI Applications</sub><br>
       <sub>Intelligent Systems</sub>
