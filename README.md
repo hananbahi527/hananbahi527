@@ -181,7 +181,6 @@ Network Architecture
 <b>Machine Learning</b>
 
 Machine Learning Fundamentals  
-Supervised & Unsupervised Learning  
 Model Training & Evaluation
 
 </td>
