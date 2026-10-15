@@ -194,7 +194,7 @@ Model Training & Evaluation
 
 AI Fundamentals  
 Data  
-Exploring ML
+
 
 </td>
 
