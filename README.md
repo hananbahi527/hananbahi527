@@ -66,10 +66,6 @@
   cybersecurity, embedded systems, and artificial intelligence.</b>
 </p>
 
-<br>
-
-
-
 ---
 
 <!-- ====================================================== -->
@@ -164,7 +160,7 @@
     </td>
   </tr>
 </table>
-```
+
 
 ---
 
