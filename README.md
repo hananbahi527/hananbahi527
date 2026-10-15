@@ -178,13 +178,14 @@ Network Architecture
 
 ### 🔐
 
-<b>Cybersecurity</b>
+<b>Machine Learning</b>
 
-Security Fundamentals  
-Network Security  
-Security Concepts
+Machine Learning Fundamentals  
+Supervised & Unsupervised Learning  
+Model Training & Evaluation
 
 </td>
+
 
 <td align="center" width="180">
 
