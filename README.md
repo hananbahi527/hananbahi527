@@ -145,61 +145,38 @@
 <!--                  CURRENTLY LEARNING                    -->
 <!-- ====================================================== -->
 
+
 <h2 align="center">🌱 Currently Learning</h2>
 
 <table align="center">
-<tr>
-
-<td align="center" width="180">
-
-### ☁️
-
-<b>Cloud</b>
-
-Cloud Computing  
-AWS  
-Infrastructure
-
-</td>
-
-<td align="center" width="180">
-
-### 🌐
-
-<b>Networking</b>
-
-Computer Networks  
-Protocols  
-Network Architecture
-
-</td>
-
-<td align="center" width="180">
-
-### 🔐
-
-<b>Machine Learning</b>
-
-Machine Learning Fundamentals  
-Model Training & Evaluation
-
-</td>
-
-
-<td align="center" width="180">
-
-### 🤖
-
-<b>AI</b>
-
-AI Fundamentals  
-Data  
-
-
-</td>
-
-</tr>
+  <tr>
+    <td align="center" width="200">
+      <h3>☁️ Cloud Computing</h3>
+      <sub>Cloud Fundamentals</sub><br>
+      <sub>AWS & Cloud Services</sub><br>
+      <sub>Virtualization & Infrastructure</sub>
+    </td>
+    <td align="center" width="200">
+      <h3>🌐 Networking</h3>
+      <sub>Computer Networks</sub><br>
+      <sub>Network Protocols</sub><br>
+      <sub>Network Architecture</sub>
+    </td>
+    <td align="center" width="200">
+      <h3>🤖 Machine Learning</h3>
+      <sub>ML Fundamentals</sub><br>
+      <sub>Supervised & Unsupervised Learning</sub><br>
+      <sub>Model Training & Evaluation</sub>
+    </td>
+    <td align="center" width="200">
+      <h3>🧠 Artificial Intelligence</h3>
+      <sub>AI Fundamentals</sub><br>
+      <sub>AI Applications</sub><br>
+      <sub>Intelligent Systems</sub>
+    </td>
+  </tr>
 </table>
+```
 
 ---
 
