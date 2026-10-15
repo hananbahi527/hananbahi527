@@ -234,40 +234,24 @@ Exploring ML
 <!--                    GITHUB ACTIVITY                    -->
 <!-- ====================================================== -->
 
-<h2 align="center">📊 GitHub Activity</h2>
+## 📊 GitHub Activity
 
 <p align="center">
-
-<a href="https://github.com/hananbahi527">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=hananbahi527&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=06B6D4&text_color=334155&bg_color=F8FAFC"
+    src="https://github-readme-stats.vercel.app/api?username=hananbahi527&show_icons=true&hide_border=true&rank_icon=percentile&title_color=FF2E88&icon_color=FFD43B&text_color=9FFFFF&bg_color=0D1117"
     alt="Hanan's GitHub Stats"
   />
-</a>
-
-<a href="https://github.com/hananbahi527">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananbahi527&layout=compact&hide_border=true&title_color=2563EB&text_color=334155&bg_color=F8FAFC"
-    alt="Hanan's Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananbahi527&layout=compact&hide_border=true&title_color=FF2E88&text_color=9FFFFF&bg_color=0D1117"
+    alt="Hanan's Most Used Languages"
   />
-</a>
-
 </p>
 
-<br>
-
 <p align="center">
-
-<a href="https://github.com/hananbahi527">
   <img
-    height="180"
-    src="https://streak-stats.demolab.com/?user=hananbahi527&hide_border=true&background=F8FAFC&ring=7C3AED&fire=EC4899&currStreakLabel=2563EB&sideLabels=06B6D4&dates=64748B&currStreakNum=7C3AED&sideNums=2563EB"
+    src="https://streak-stats.demolab.com/?user=hananbahi527&hide_border=true&background=0D1117&ring=FF2E88&fire=FF2E88&currStreakLabel=FFD43B&sideLabels=9FFFFF&dates=9FFFFF&currStreakNum=FFD43B&sideNums=FF2E88&currStreakBG=0D1117&sideBG=0D1117"
     alt="Hanan's GitHub Streak"
   />
-</a>
-
 </p>
 
 ---
