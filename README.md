@@ -199,12 +199,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hananbahi527&show_icons=true&hide_border=true&rank_icon=percentile&title_color=FF2E88&icon_color=FFD43B&text_color=9FFFFF&bg_color=0D1117"
+    src="./profile/stats.svg"
     alt="Hanan's GitHub Stats"
+    width="49%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananbahi527&layout=compact&hide_border=true&title_color=FF2E88&text_color=9FFFFF&bg_color=0D1117"
+    src="./profile/top-langs.svg"
     alt="Hanan's Most Used Languages"
+    width="49%"
   />
 </p>
 
