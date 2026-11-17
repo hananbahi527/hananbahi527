@@ -260,5 +260,4 @@
 </p>
 
 <p align="center">
-  <b>✨ Learn • Build • Explore • Contribute ✨</b>
-</p>
+
