@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,35:2563EB,70:06B6D4,100:10B981&height=250&section=header&text=Hanan%20Ayman%20Bahi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,35:2563EB,70:06B6D4,100:10B981&height=250&section=header&text=Hanan%20Bahi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
   />
 </p>
 
