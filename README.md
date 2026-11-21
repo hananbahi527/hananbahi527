@@ -169,25 +169,7 @@
 <!--                     OPEN SOURCE                        -->
 <!-- ====================================================== -->
 
-<h2 align="center">🌍 Open-Source Contributions</h2>
 
-<p align="center">
-  <b>3 merged pull requests</b> across established open-source projects,
-  with another contribution currently under review.
-</p>
-
-- [PR #270 — Recusal (Merged)](https://github.com/philpaz/recusal/pull/270): Improved Pydantic AI adapter type annotations and compatibility with strict type-checking.
-- [PR #9 — Good First Issues for CNCF Projects (Merged)](https://github.com/kavirakesh14/good-first-issues-for-cncf-projects/pull/9): Added an AI Native filter while preserving the existing issue data.
-- [PR #11 — FastaFrames (Merged)](https://github.com/pgarrett-scripps/FastaFrames/pull/11): Added tests for non-UniProt FASTA header formats.
-- [PR #50129 — SGLang / AMD Nightly CI (In Progress)](https://github.com/sgl-project/sglang/pull/50129): Improved workflow handling so unexpected skipped AMD nightly jobs are detected.
-
-<p align="center">
-  <a href="https://github.com/hananbahi527?tab=repositories">Explore my repositories</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/hananbahi527?tab=pullrequests">View my pull requests</a>
-</p>
-
----
 
 <!-- ====================================================== -->
 <!--                    GITHUB STATS                        -->
