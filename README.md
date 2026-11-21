@@ -181,13 +181,6 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hananbahi527&bg_color=0d1117&color=9fffff&line=7c3aed&point=06b6d4&area=true&hide_border=true"
-    alt="Hanan's GitHub Contribution Activity Graph"
-    width="100%"
-  />
-</p>
 
 <p align="center">
   <img
