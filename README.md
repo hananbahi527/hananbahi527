@@ -13,23 +13,21 @@
 </h2>
 
 <p align="center">
-  <b>Communication & Computer Engineering Student</b>
+  <b>Communication & Information Engineering Student</b>
 </p>
 
 <p align="center">
-  💻 Software Development
+  ☁️ Cloud Computing
   &nbsp; • &nbsp;
-  ☁️ Cloud
+  💻 Software Engineering
   &nbsp; • &nbsp;
-  🌐 Networking
-  &nbsp; • &nbsp;
-  🔐 Cybersecurity
+  🌐 Computer Networks
 </p>
 
 <p align="center">
-  🤖 Exploring AI
+  🌱 Open-Source Contributions
   &nbsp; • &nbsp;
-  🔧 Embedded Systems
+  ⚙️ Systems & Infrastructure
 </p>
 
 <br>
@@ -40,7 +38,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Communication+%26+Computer+Engineering+Student;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Learning+Cloud+Computing+%E2%98%81%EF%B8%8F;Exploring+Computer+Networks+%F0%9F%8C%90;Discovering+Cybersecurity+%F0%9F%94%90;Building+Software+%F0%9F%92%BB;Exploring+Embedded+Systems+%F0%9F%94%A7"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Communication+%26+Information+Engineering+Student;Exploring+Cloud+Computing+%E2%98%81%EF%B8%8F;Building+Software+Engineering+Foundations+%F0%9F%92%BB;Learning+Computer+Networks+%F0%9F%8C%90;Contributing+to+Open+Source+%F0%9F%8C%B1"
   />
 </p>
 
@@ -55,15 +53,15 @@
 <h2 align="center">✨ About Me</h2>
 
 <p align="center">
-  I'm a <b>Communication & Computer Engineering student</b>
-  interested in understanding how modern technology works
-  from both the software and systems perspective.
+  I'm a <b>Communication & Information Engineering student</b>
+  building a technical foundation in <b>cloud computing,
+  software engineering, and computer networks</b>.
 </p>
 
 <p align="center">
-  I'm currently building my foundations across
-  <b>software development, cloud computing, networking,
-  cybersecurity, embedded systems, and artificial intelligence.</b>
+  I'm especially interested in how software and infrastructure
+  work together, and I learn by building projects and contributing
+  to real-world open-source codebases.
 </p>
 
 ---
@@ -171,18 +169,22 @@
 <!--                     OPEN SOURCE                        -->
 <!-- ====================================================== -->
 
-<h2 align="center">🌍 Open Source</h2>
+<h2 align="center">🌍 Open-Source Contributions</h2>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=06B6D4&center=true&vCenter=true&width=650&lines=Learning+to+contribute+to+open+source+%F0%9F%8C%B1;Exploring+Git+%26+GitHub+workflows+%F0%9F%94%A7;Building+and+learning+in+public+%F0%9F%8C%8D"
-  />
+  <b>3 merged pull requests</b> across established open-source projects,
+  with another contribution currently under review.
 </p>
 
+- [PR #270 — Recusal (Merged)](https://github.com/philpaz/recusal/pull/270): Improved Pydantic AI adapter type annotations and compatibility with strict type-checking.
+- [PR #9 — Good First Issues for CNCF Projects (Merged)](https://github.com/kavirakesh14/good-first-issues-for-cncf-projects/pull/9): Added an AI Native filter while preserving the existing issue data.
+- [PR #11 — FastaFrames (Merged)](https://github.com/pgarrett-scripps/FastaFrames/pull/11): Added tests for non-UniProt FASTA header formats.
+- [PR #50129 — SGLang / AMD Nightly CI (In Progress)](https://github.com/sgl-project/sglang/pull/50129): Improved workflow handling so unexpected skipped AMD nightly jobs are detected.
+
 <p align="center">
-  I'm learning how to collaborate on real-world projects,
-  contribute to open-source repositories, and grow through
-  practical development.
+  <a href="https://github.com/hananbahi527?tab=repositories">Explore my repositories</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/hananbahi527?tab=pullrequests">View my pull requests</a>
 </p>
 
 ---
@@ -196,6 +198,14 @@
 <!-- ====================================================== -->
 
 ## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hananbahi527&bg_color=0d1117&color=9fffff&line=7c3aed&point=06b6d4&area=true&hide_border=true"
+    alt="Hanan's GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</p>
 
 <p align="center">
   <img
