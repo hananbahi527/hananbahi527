@@ -191,7 +191,7 @@
 
 <p align="center">
   <img
-    src="./profile/stats.svg"
+    src="./profile/stats.svg?v=20261121"
     alt="Hanan's GitHub Stats"
     width="49%"
   />
